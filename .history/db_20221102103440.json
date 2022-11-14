@@ -1,0 +1,39 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "name": "Iphone 14",
+         "type": "Màu đen, 256GB",
+         "price": "3000000"
+      },
+      {
+         "name": "Iphone 12",
+         "type": "Trắng, 32GB",
+         "price": "200000",
+         "id": 2
+      },
+      {
+         "name": "Xiaomi Redmi Note 11",
+         "type": "Đen, 64GB",
+         "price": "40000",
+         "id": 3
+      },
+      {
+         "name": "",
+         "type": "",
+         "price": "",
+         "image": "",
+         "id": 4
+      }
+   ],
+   "comments": [
+      {
+         "id": 1,
+         "body": "some comment",
+         "postId": 1
+      }
+   ],
+   "profile": {
+      "name": "typicode"
+   }
+}

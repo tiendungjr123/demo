@@ -1,0 +1,19 @@
+import './App.css';
+import Home from './components/admin/home';
+import Navbar from './components/navbar';
+import { Route, Routes } from 'react-router-dom';
+import Customer from './components/customer/customer';
+
+function App() {
+   return (
+      <div className="container">
+         <Navbar />
+         <Routes>
+            <Route exact path='/' element={<Customer />} />
+            <Route exact path='/admin' element={<Home />} />
+         </Routes>
+      </div>
+   );
+}
+
+export default App;

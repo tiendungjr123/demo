@@ -1,0 +1,50 @@
+{
+   "products": [
+      {
+         "name": "Iphone 14",
+         "type": "Màu đen, 256GB",
+         "price": "1000",
+         "id": 1
+      },
+      {
+         "name": "iPhone 9",
+         "type": "Đen, 64GB",
+         "price": "550",
+         "id": 2
+      },
+      {
+         "name": "Samsung Universe 9",
+         "type": "Hồng, 64GB",
+         "price": "1249",
+         "id": 3
+      },
+      {
+         "name": "Xiaomi Redmi Note 11",
+         "type": "Trắng, 32GB",
+         "price": "500",
+         "id": 4
+      },
+      {
+         "name": "OPPOF19",
+         "type": "Trắng, 32GB",
+         "price": "280",
+         "id": 5
+      },
+      {
+         "name": "Huawei P30",
+         "type": "Đen, 64GB",
+         "price": "498",
+         "id": 6
+      }
+   ],
+   "comments": [
+      {
+         "id": 1,
+         "body": "some comment",
+         "postId": 1
+      }
+   ],
+   "profile": {
+      "name": "typicode"
+   }
+}

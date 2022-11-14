@@ -1,0 +1,38 @@
+{
+   "products": [
+      {
+         "name": "Iphone 14",
+         "type": "Trắng, 256GB",
+         "price": "1000",
+         "id": 1
+      },
+      {
+         "name": "iPhone 9",
+         "type": "Trắng, 32GB",
+         "price": "549",
+         "id": 2
+      },
+      {
+         "name": "OPPOF19",
+         "type": "Đen, 64GB",
+         "price": "280",
+         "id": 3
+      },
+      {
+         "name": "Huawei P30",
+         "type": "Trắng, 128GB",
+         "price": "499",
+         "id": 4
+      }
+   ],
+   "comments": [
+      {
+         "id": 1,
+         "body": "some comment",
+         "postId": 1
+      }
+   ],
+   "profile": {
+      "name": "typicode"
+   }
+}

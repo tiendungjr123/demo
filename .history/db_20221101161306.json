@@ -1,0 +1,20 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "name": "Iphone 14",
+         "type": "Màu đen, 256GB",
+         "price": "3000000"
+      }
+   ],
+   "comments": [
+      {
+         "id": 1,
+         "body": "some comment",
+         "postId": 1
+      }
+   ],
+   "profile": {
+      "name": "typicode"
+   }
+}
